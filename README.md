@@ -7,5 +7,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Ekran görüntüsü 2024-06-12 141435](https://github.com/arazumut/todolist-and-golang_examples/assets/150933483/15c1dfe1-eeb6-42fe-87e8-52f53a6ce03e)
+![Ekran görüntüsü 2024-06-12 141430](https://github.com/arazumut/todolist-and-golang_examples/assets/150933483/4fa323d9-92d2-4090-903a-39b9805ff6f2)
+
 
 <h1>Golang dili ile ilgili basit ve orta örnekler. Geliştirilebilir programlar.</h1>
