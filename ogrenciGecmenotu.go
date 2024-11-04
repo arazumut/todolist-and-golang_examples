@@ -20,6 +20,7 @@ type SahisBilgileri struct {
 	dersler [5]Ders
 }
 
+
 func ogrenciBilgileriGirVeHesapla(ogrenci *SahisBilgileri) {
 	fmt.Print("Ad: ")
 	fmt.Scanln(&ogrenci.ad)
