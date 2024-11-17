@@ -9,6 +9,7 @@ func asalKontrol(sayi int) bool {
 	if sayi < 2 {
 		return false 
 	}
+	
 
 	for i := 2; i*i <= sayi; i++ {
 		if sayi%i == 0 {
