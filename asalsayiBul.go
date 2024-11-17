@@ -7,7 +7,7 @@ import (
 // Asal sayı kontrolü yapan fonksiyon
 func asalKontrol(sayi int) bool {
 	if sayi < 2 {
-		return false // 2'den küçük sayılar asal değildir
+		return false 
 	}
 
 	for i := 2; i*i <= sayi; i++ {
