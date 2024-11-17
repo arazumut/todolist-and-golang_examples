@@ -9,6 +9,7 @@ func enBuyukEleman(dizi []int) int {
 	for _, eleman := range dizi {
 		if eleman > max {
 			max = eleman
+			
 		}
 	}
 
