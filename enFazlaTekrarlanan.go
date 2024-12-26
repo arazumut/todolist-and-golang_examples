@@ -28,6 +28,8 @@ func main() {
 		}
 	}
 
+	
+
 	// En fazla tekrarlanan karakteri bul
 	for karakter, sayi := range karakterSayisi {
 		if sayi > maxTekrar {
