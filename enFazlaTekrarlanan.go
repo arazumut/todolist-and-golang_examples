@@ -19,6 +19,8 @@ func main() {
 	if scanner.Scan() {
 		metin = scanner.Text()
 	}
+
+	
 	
 
 	// Metindeki her bir karakterin sayısını say
