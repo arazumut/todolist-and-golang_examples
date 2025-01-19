@@ -10,6 +10,8 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Hello, HTTPS!")
 }
 
+//Created by K. Umut Araz
+
 func main() {
 	http.HandleFunc("/", helloHandler)
 
