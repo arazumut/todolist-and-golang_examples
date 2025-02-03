@@ -13,6 +13,7 @@ func enBuyukEleman(dizi []int) int {
 		}
 	}
 
+
 	return max
 }
 
